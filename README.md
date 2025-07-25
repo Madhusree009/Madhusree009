@@ -12,7 +12,7 @@ Here are some ideas to get you started: !-->
 - 💬 Ask me about Front End technologies.
 - 📫 How to reach me: **madhusreedas009@gmail.com**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: *I love watching anime*
+- ⚡ Fun fact: *I love watching anime ⛩️🌸*
   
 
 ## 🎀 About Me:
@@ -39,5 +39,8 @@ My journey into web development began with a fascination for how design transfor
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Madhusree009&icon=9&color=2)](https://visitcount.itsvg.in)
+
+<!-- Featured Blof Posts -->
+<!-- My Projects -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
