@@ -3,8 +3,9 @@
 <!--* *Madhusree009/Madhusree009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: !-->
+[![](https://visitcount.itsvg.in/api?id=Madhusree009&icon=9&color=2)](https://visitcount.itsvg.in)
 
-- 🔭** I’m currently working on MERN stack projects**
+- 🔭 I’m currently working on MERN stack projects.
 - 🌱 I’m currently learning AWS Cloud fundamentals.
 - 👯 I’m looking to collaborate on Frontebd and Backent Projects
 - 🤔 I’m looking for help with System Design Problems.
