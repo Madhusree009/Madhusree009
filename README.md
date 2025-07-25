@@ -7,12 +7,12 @@ Here are some ideas to get you started: !-->
 
 - 🔭 I’m currently working on MERN stack projects.
 - 🌱 I’m currently learning AWS Cloud fundamentals.
-- 👯 I’m looking to collaborate on Frontebd and Backent Projects
+- 👯 I’m looking to collaborate on Frontend and Backend Projects.
 - 🤔 I’m looking for help with System Design Problems.
 - 💬 Ask me about Front End technologies.
 - 📫 How to reach me: **madhusreedas009@gmail.com**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: *I love watching anime ⛩️🌸*
+- ⚡ Fun fact: *I love watching anime ⛩️🌸*.
   
 
 ## 🎀 About Me:
