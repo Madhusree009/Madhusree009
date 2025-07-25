@@ -31,8 +31,7 @@ My journey into web development began with a fascination for how design transfor
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Madhusree009&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Madhusree009&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Madhusree009&theme=dark&hide_border=true&include_all_commits=true&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Madhusree009&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusree009&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
